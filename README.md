@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://jaydolphxx-readme-status.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&theme=radical"/>
+  <img alt="Top Langs" height="150px" src="https://jaydolphxx-readme-status.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&theme=radical&bg_color=90,#F5F5F5,#FFE4E1"/>
   <img alt="github stats" height="150px" src="https://jaydolphxx-readme-status.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&theme=radical"/>
 </p>
 
