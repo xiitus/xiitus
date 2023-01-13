@@ -1,6 +1,8 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydolphXX&layout=compact&count_private=true&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&theme=radical" />
+  <img alt="Top Langs" height="150px" src="github-readme-stats-jaydolphxx.vercel.app
+/api/top-langs/?username=jaydolphXX&layout=compact&count_private=true&show_icons=true&theme=radical" />
+  <img alt="github stats" height="150px" src="github-readme-stats-jaydolphxx.vercel.app
+/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&theme=radical" />
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=jaydolphXX&theme=radical&column=7)
