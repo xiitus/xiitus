@@ -4,8 +4,8 @@
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=dolpxx&theme=radical&column=7)
-![](https://raw.githubusercontent.com/dolpxx/dolpxx/main/profile-summary-card-output/radical/0-profile-details.svg)
-![](https://raw.githubusercontent.com/dolpxx/dolpxx/main/profile-summary-card-output/radical/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/dolpxx/dolpxx/main/profile-summary-card-output/radical/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/dolpxx/dolpxx/main/profile-summary-card-output/radical/3-stats.svg)
-![](https://raw.githubusercontent.com/dolpxx/dolpxx/main/profile-summary-card-output/radical/4-productive-time.svg)
+![](https://raw.githubusercontent.com/jaydolphXX/jaydolphXX/main/profile-summary-card-output/radical/0-profile-details.svg)
+![](https://raw.githubusercontent.com/jaydolphXX/jaydolphXX/main/profile-summary-card-output/radical/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/jaydolphXX/jaydolphXX/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/jaydolphXX/jaydolphXX/main/profile-summary-card-output/radical/3-stats.svg)
+![](https://raw.githubusercontent.com/jaydolphXX/jaydolphXX/main/profile-summary-card-output/radical/4-productive-time.svg)
