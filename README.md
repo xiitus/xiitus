@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://jaydolphxx-readme-status.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,FF009A&theme=radical"/>
-  <img alt="github stats" height="150px" src="https://jaydolphxx-readme-status.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,FF009A&theme=radical"/>
+  <img alt="Top Langs" height="150px" src="https://dolp-status.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,FF009A&theme=radical"/>
+  <img alt="github stats" height="150px" src="https://dolp-status.vercel.app/api?username=jaydolphXX&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,FF009A&theme=radical"/>
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=jaydolphXX&theme=radical&column=7)
