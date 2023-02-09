@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://dolp-status.vercel.app/api?username=dolpxx&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,00FFFF&theme=tokyonight"/>
-  <img alt="github stats" height="150px" src="https://dolp-status.vercel.app/api?username=dolpxx&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,00FFFF&theme=tokyonight"/>
+  <img alt="Top Langs" height="150px" src="https://dolpxx-grs.vercel.app/api?username=dolpxx&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,00FFFF&theme=tokyonight"/>
+  <img alt="github stats" height="150px" src="https://dolpxx-grs.vercel.app/api?username=dolpxx&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,00FFFF&theme=tokyonight"/>
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=dolpxx&theme=tokyonight&column=7)
