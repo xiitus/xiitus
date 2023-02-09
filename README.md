@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Dolp!</h1>
+<h1 align="center">👋 Hi, I'm dolp.</h1>
 <h2 align="center">I'm a student of economics📚</h2>
 
 <p align="left">
