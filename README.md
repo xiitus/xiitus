@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-<h3 align="left">Activities and Trophys</h3>
+<h3 align="left">Activities and Trophys:</h3>
 </p>
 
 <p align="left">
