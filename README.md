@@ -22,7 +22,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
 </p>
-
+<h3 align="left">Activities and Trophys</h3>
 <p align="left">
     <img alt="Top Langs" height="150px"
         src="https://dolp-status.vercel.app/api?username=dolpxx&count_private=true&show_icons=true&show_icons=true&bg_color=90,000000,00FFFF&theme=tokyonight" />
