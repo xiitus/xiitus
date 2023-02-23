@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm dolp.</h1>
-<h2 align="center">I'm a freshman📚</h2>
+<h1 align="center">👋🏽 Hi, I'm dolp.</h1>
 
 <p align="left">
  
