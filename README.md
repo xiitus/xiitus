@@ -35,8 +35,8 @@
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=dolpxx&theme=tokyonight&column=7)
-![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/tokyonight/3-stats.svg)
-![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/gruvbox_light/0-profile-details.svg)
+![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/gruvbox_light/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/gruvbox_light/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/gruvbox_light/3-stats.svg)
+![](https://raw.githubusercontent.com/dolpXX/dolpXX/main/profile-summary-card-output/gruvbox_light/4-productive-time.svg)
