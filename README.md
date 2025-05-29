@@ -1,4 +1,4 @@
-<h1 align="center">_**Yooo I'm Xiitus**_</h1>
+<h1 align="center">Yooo I'm Xiitus</h1>
 
 <p align="left">
  
